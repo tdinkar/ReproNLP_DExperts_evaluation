@@ -11,7 +11,7 @@ batch_names = 'batch'
 
 def create_image(data, image_name):
     # Read the HTML template
-    with open('detoxHead2Head.html', 'r') as file:
+    with open(working_dir+'/detoxHead2Head.html', 'r') as file:
         template_content = file.read()
     # Use Jinja2 template engine to substitute variables
     template = Template(template_content)
