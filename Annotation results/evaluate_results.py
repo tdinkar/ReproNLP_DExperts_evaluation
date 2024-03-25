@@ -81,7 +81,7 @@ class AnalyseResults():
     def kripps_alpha(self, write_latex = False):
         '''
         Calculates kripp's alpha for individual batches,
-        writw_latex generates the results in latex format.
+        write_latex generates the results in latex format.
         '''
         csv_batches = self.data.csv_batches
         label_mapping = {'A': 1, 'B': 2, 'C': 3}
