@@ -80,8 +80,8 @@ class AnalyseResults():
 
     def kripps_alpha(self, write_latex = False):
         '''
-        Calculates kripp's alpha for individual batches,
-        write_latex generates the results in latex format.
+        The for_batch = True calculates kripp's alpha for individual batches,
+        otherwise agreement is for the entire dataset.
         '''
         csv_batches = self.data.csv_batches
         label_mapping = {'A': 1, 'B': 2, 'C': 3}
@@ -93,9 +93,12 @@ class AnalyseResults():
                 for group in grouped_batch:
                     batch = group.applymap(lambda x: label_mapping[x] if x in label_mapping else x)
                     intra_results.append(batch.to_numpy())
-            combined_array = self.transform_data_for_intra(intra_results).to_numpy()
+            combined_array = self.transform_data_for_intra(intra_results)
+            # replace nan values with *, fast krippendorff package may not correctly handle them
+            combined_array.fillna("*", inplace=True) 
+            combined_array = combined_array.to_numpy()
             logger.info(f'Calculating krippendorf\'s alpha for all batches for experiment: {self.experiment}')
-            alpha = krippendorff_alpha(combined_array, nominal_metric,  missing_items="nan")
+            alpha = krippendorff_alpha(combined_array, nominal_metric,  missing_items="*")
             logger.info("Annotator agreement for nominal metric: %.3f" \
                         % alpha)
         else:
@@ -205,6 +208,3 @@ def convert_percentages_to_fractions(data):
 
 if __name__ == '__main__':
     experiment_wrapper()
-        
-
-
