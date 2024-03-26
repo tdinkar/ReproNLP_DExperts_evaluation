@@ -54,4 +54,4 @@ def plt_figure(res, working_dir):
         fig.subplots_adjust(top=0.9, left=0.16, right=0.81, bottom=0.27, wspace=0.5, hspace=0.4)
 
     # Save the figure as an image file
-    plt.savefig(working_dir+'toxicity_human_eval_results.png')
+    plt.savefig(working_dir+'/toxicity_human_eval_results.png')
