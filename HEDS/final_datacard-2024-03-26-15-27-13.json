@@ -103,7 +103,7 @@
     },
     "heds-sample_evaluators_design-experimental_design-quality_assurance-description": {
         "data": {
-            "": "Participants will only be selected from the following countries: Australia, Canada, the United Kingdom, and the United States.\n \nEvaluators must have an approval rating of >99% on prolific"
+            "": "Participants will only be selected from the following countries: Australia, Canada, the United Kingdom, and the United States.\n \nEvaluators must have an approval rating of >=99% on prolific"
         },
         "control": {}
     },
