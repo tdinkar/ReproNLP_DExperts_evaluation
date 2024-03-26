@@ -1,0 +1,1110 @@
+{
+    "heds-criteria-criterion-response_elicitation-response_aggregation": {
+        "data": {
+            "Fluency": "Distributions of participant responses are reported as percentages."
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-affiliation": {
+        "data": {
+            "": "Heriot Watt University"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-name": {
+        "data": {
+            "": "Tanvi Dinkar"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-10": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-system-tasks-20": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-affiliation": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-7": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-5": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-description": {
+        "data": {
+            "": "Participants will only be selected from the following countries: Australia, Canada, the United Kingdom, and the United States.\n \nEvaluators must have an approval rating of >99% on prolific"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluation carried out by evaluators at a place of their own choosing, e.g. online, using a paper form, etc."
+        }
+    },
+    "heds-ethics-review_body": {
+        "data": {
+            "": "Yes, the Heriot Watt University Research Ethics Committee"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-effect_size_method": {
+        "data": {
+            "Fluency": "None"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-1": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "1. Intrinsic"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-description": {
+        "data": {
+            "": "The participants do not require domain expertise, and will be paid monetary compensation based on the UK Living Wage (https://www.livingwage.org.uk)."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-number_of_system_outputs": {
+        "data": {
+            "": "The following details how many system outputs are evaluated for each system:\n1. DEXPERTS: 960\n2. GPT-2 Large: 240\n3. PPLM: 240\n4. DAPT: 240\n5. GeDi: 240"
+        },
+        "control": {}
+    },
+    "heds-system-output_types-4": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "4. text: subsentential unit of text"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-6": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "6. other (please describe)"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-9": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-quality_type-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-task_description": {
+        "data": {
+            "Fluency": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_name": {
+        "data": {
+            "Fluency": "Fluency"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-3": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "3. N/A"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-7": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement_score": {
+        "data": {
+            "Fluency": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. evaluators do not include any of the authors"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_place_of_choosing": {
+        "data": {
+            "": "Online"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-link": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion": {
+        "data": {},
+        "control": {
+            "Fluency": true
+        },
+        "text": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-3": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-quality_assurance-method-other_text": {
+        "data": {
+            "": "Evaluators are chosen based Prolific screening criteria."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluators_can_ask_questions-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. None of the above"
+        }
+    },
+    "heds-system-output_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-8": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-3": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-3": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-number_of_evaluators": {
+        "data": {
+            "": "96"
+        },
+        "control": {}
+    },
+    "heds-system-tasks-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_types-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-other_text": {
+        "data": {
+            "Fluency": "3"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-method": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-4": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-characteristics": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-1": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-ethics-impact_assessments": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-size_of_scale-1": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "1. Discrete"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-participant_criterion_definiiton": {
+        "data": {
+            "Fluency": "A sentence is fluent if it is grammatically correct and coherent."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-5": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-output_aspect-3": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "3. Both form and content of output"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-system-output_types-6": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "6. text: multiple sentences"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-5": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-8": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-6": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement_score": {
+        "data": {
+            "Fluency": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. non-experts"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-verbatim_question": {
+        "data": {
+            "Fluency": "Which of these continuations is more fluent?"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. not previously known to authors"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. paid (monetary compensation)"
+        }
+    },
+    "heds-criteria-criterion-evaluation_mode-objective_or_subjective-2": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "2. Subjective"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-4": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-output_aspect-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-quality_type-2": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "2. Goodness"
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-other_text": {
+        "data": {
+            "": "System outputs are selected as the same samples used in the paper (Section 3.2.4). The samples used in the paper were selected by manual selection aimed at achieving balance relative to given properties.  "
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. other (please describe)"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-other_text": {
+        "data": {
+            "": "Automatically generated from Prolific: The maximum time allowed is automatically calculated based on your estimated completion time. It is designed to give all participants in your study plenty of time to complete successfully, whilst timing out those who become inactive"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-absolute_or_relative-2": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "2. Relative"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-name": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-ethics-special_category_data": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-6": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-input_languages-41": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "41. English"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-list_or_range": {
+        "data": {
+            "Fluency": "A, B, or equally fluent"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-recruitment_method": {
+        "data": {
+            "": "Evaluators will be recruited via Prolific annotation platform.\nParticipants will be selected from the following countries: Australia, Canada, the United Kingdom, and the United States.\n"
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-names_and_affiliations-contact_author-email": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-system_output_selection-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-training_practice": {
+        "data": {
+            "": "Before starting the evaluation, evaluators will be given details regarding the:\n1. materials they will be evaluating (i.e. a set of prompts and corresponding continuations: The prompt is the text that the AI system is prompted with, while the continuation is the text that the AI system generated conditioned on the prompt.), \n2. instructions for the task (selecting the most fluent continuation from the two continuation options),\n3. definitions of the category to label (i.e a sentence is fluent if it is grammatically correct and coherent.) and\n4. 3 example annotated samples"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-3": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-paper_and_resources-paper-link": {
+        "data": {
+            "": "DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts - https://aclanthology.org/2021.acl-long.522.pdf"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-ethics-personal_data": {
+        "data": {
+            "": "No"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-experimental_conditions-4": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-2": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-other_text": {
+        "data": {
+            "Fluency": "N/A"
+        },
+        "control": {}
+    },
+    "heds-system-input_types-4": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "4. text: subsentential unit of text"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-collection_method": {
+        "data": {
+            "": "Prolific and Microsoft Forms"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-system-tasks-8": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "8. feature-controlled text generation"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-what_evaluators_see-description": {
+        "data": {
+            "": "Evaluators are shown the input prompt and the two system generated continuations as well as the multiple choice question."
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-2": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "2. no"
+        }
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-1": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "1. Quality of output in its own right"
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-payment-2": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-1": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-system-output_types-5": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "5. text: sentence"
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-preregistered-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-paper_and_resources-resources-links": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-criteria-self_vs_external_frame-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-expertise-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-value": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-3": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-other_text": {
+        "data": {
+            "": ""
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-2": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "2. no"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-3": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "3. relative quality estimation (including ranking)"
+        }
+    },
+    "heds-paper_and_resources-paper-experiment_identification": {
+        "data": {
+            "": "The evaluation of detoxified texts, for the criteria of fluency (corresponding to section 3.2.4)"
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-are_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-other_text": {
+        "data": {
+            "Fluency": ""
+        },
+        "control": {}
+    },
+    "heds-sample_evaluators_design-evaluators-evaluators-known_to_authors-3": {
+        "data": {
+            "": false
+        },
+        "control": {},
+        "text": {
+            "": ""
+        }
+    },
+    "heds-sample_evaluators_design-sample-statistical_power-script": {
+        "data": {
+            "": "N/A"
+        },
+        "control": {}
+    },
+    "heds-criteria-criterion-response_elicitation-scale_presented_as-1": {
+        "data": {
+            "Fluency": true
+        },
+        "control": {},
+        "text": {
+            "Fluency": "1. Multiple-choice options"
+        }
+    },
+    "heds-criteria-criterion-response_elicitation-form_of_response-11": {
+        "data": {
+            "Fluency": false
+        },
+        "control": {},
+        "text": {
+            "Fluency": ""
+        }
+    },
+    "heds-sample_evaluators_design-experimental_design-evaluator_freedom-1": {
+        "data": {
+            "": true
+        },
+        "control": {},
+        "text": {
+            "": "1. evaluators have to complete each individual assessment within a set time"
+        }
+    },
+    "heds-paper_and_resources-names_and_affiliations-person_completing_this_sheet-email": {
+        "data": {
+            "": "T.Dinkar@hw.ac.uk"
+        },
+        "control": {}
+    }
+}
